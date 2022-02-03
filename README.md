@@ -14,5 +14,5 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Gengar" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/54008274/152376320-93aa2a0a-37b7-4cbc-ba36-f1e388d87398.gif?width=676&height=676">
 
-  ![Snake animation](https://github.com/igishikawa/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/igishikawa/igishikawa/blob/output/github-contribution-grid-snake.svg)
 </div>
