@@ -1,4 +1,4 @@
-## Olá, eu sou o Igor Ishikawa.
+## Olá, eu sou o Ishikawa.
 - 👨‍🎓 Atualmente estudo HTML/CSS.
 - 📖 Pretendo estudar JS e TS.
 
